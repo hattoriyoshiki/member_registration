@@ -10,7 +10,13 @@
 "E-Mail Address": "メールアドレス",
 "Password": "パスワード",
 "Confirm Password": "パスワード(確認用)",
-"Remember Me": "ログイン状態を保存",
+"Remember me": "ログイン状態を保存",
+"Forgot your password?": "パスワードを忘れた場合",
+"Log in": "ログイン",
+
+"Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one."
+:"パスワードをお忘れの場合、メールアドレスを入力してください。パスワード再設定用のリンクを送信します。",
+"Email Password Reset Link" :"メールアドレスを送信",
 
 "Hello!": "ご利用ありがとうございます。",
 "Reset Password Notification":  "パスワード再設定のお知らせ",
