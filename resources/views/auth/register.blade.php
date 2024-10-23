@@ -9,6 +9,20 @@
             <x-input-error :messages="$errors->get('name')" class="mt-2" />
         </div>
 
+        <!-- prefecture -->
+        <div>
+            <x-input-label for="prefecture" :value="__('Prefecture')" />
+            <x-text-input id="prefecture" class="block mt-1 w-full" type="text" name="prefecture" :value="old('prefecture')" required autofocus autocomplete="prefecture" />
+            <x-input-error :messages="$errors->get('prefecture')" class="mt-2" />
+        </div>
+
+        <!-- phone -->
+        <div>
+            <x-input-label for="phone" :value="__('phone')" />
+            <x-text-input id="phone" class="block mt-1 w-full" type="text" name="phone" :value="old('prefecture')" required autofocus autocomplete="phone" />
+            <x-input-error :messages="$errors->get('phone')" class="mt-2" />
+        </div>
+
         <!-- Email Address -->
         <div class="mt-4">
             <x-input-label for="email" :value="__('Email')" />
