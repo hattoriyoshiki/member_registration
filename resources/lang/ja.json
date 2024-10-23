@@ -8,15 +8,25 @@
 
 "Name": "氏名",
 "E-Mail Address": "メールアドレス",
+"Prefecture": "お住まいの都道府県",
+"Phone": "電話番号",
 "Password": "パスワード",
 "Confirm Password": "パスワード(確認用)",
 "Remember me": "ログイン状態を保存",
 "Forgot your password?": "パスワードを忘れた場合",
 "Log in": "ログイン",
+"Log In": "ログイン",
+"Log out": "ログアウト",
+"Log Out": "ログアウト",
 
 "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one."
 :"パスワードをお忘れの場合、メールアドレスを入力してください。パスワード再設定用のリンクを送信します。",
 "Email Password Reset Link" :"メールアドレスを送信",
+
+"Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another."
+ :"ログインするためには受け取ったメールから認証を完了してください",
+ "Resend Verification Email" :"メールアドレスを送信",
+ "A new verification link has been sent to the email address you provided during registration." :"リンクが送信されました。リンクにアクセスしてログインを完了してください",
 
 "Hello!": "ご利用ありがとうございます。",
 "Reset Password Notification":  "パスワード再設定のお知らせ",
