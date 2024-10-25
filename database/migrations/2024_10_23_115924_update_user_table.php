@@ -27,7 +27,8 @@ return new class extends Migration
     public function down()
     {
         Schema::table('users', function (Blueprint $table) {
-            //
+            $table->string('prefecture');  // 都道府県カラムを追加
+            $table->string('phone');  // 電話番号カラムを追加
         });
     }
 };
